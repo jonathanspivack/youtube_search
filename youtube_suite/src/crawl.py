@@ -107,7 +107,7 @@ def pull_transcript(youtube_watch_link):
     # cache.append(new_cache)
     #print(cache)
 
-    print('appending okaaaaay to db')
+    print('appending to db')
 
 
 
